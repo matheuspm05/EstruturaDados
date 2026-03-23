@@ -43,26 +43,10 @@ NoB *buscar(ArvoreB *arvoreB, int chave){
             
         }else{
             
-            
-            
-            
-            
         }
         
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
     
     
 }
